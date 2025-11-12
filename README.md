@@ -3894,13 +3894,15 @@ Below are other packages from the same author.
 
 <!-- - **[voicify](https://npmjs.com/package/voicify)**: A highly efficient and blazing fast Text-To-Speech (TTS) software. -->
 
-- **[forestdb](https://npmjs.com/package/forestdb)**: An uncomplicated real-time database with encrypted HTTP and WebSocket server-client communication, fast caching, dataflow and state management, a cross-runtime file system manager, and more, working seamlessly on both frontend and backend.
-
 - **[cococity](https://npmjs.com/package/cococity)**: A lightweight and high-performance library that provides regional data and precise GPS-based localization, without relying on external APIs.
 
 - **[illisible](https://npmjs.com/package/illisible)**: A powerful and high-performance cross-runtime encryption software.
 
-- **[feedlist](https://npmjs.com/package/feedlist)**: A highly efficient and high-performance feeds renderer, designed for React and React Native (Bare and Expo).
+- **[feedlist-react](https://npmjs.com/package/@vinoskey524/feedlist-react)**: A highly efficient and high-performance feeds renderer, designed for React.
+
+- **[feedlist-react-native](https://npmjs.com/package/@vinoskey524/feedlist-react-native)**: A highly efficient and high-performance feeds renderer, designed for React Native (Bare and Expo).
+
+- **[panda](https://npmjs.com/package/@vinoskey524/panda)**: Advanced JSON-based state manager for React and React Native (Bare and Expo).
 
 - **[oh-my-json](https://npmjs.com/package/@vinoskey524/oh-my-json)**: The zenith of JSON manipulation.
 
