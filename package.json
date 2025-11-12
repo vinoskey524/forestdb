@@ -1,0 +1,66 @@
+{
+  "name": "forestdb",
+  "version": "1.0.11",
+  "type": "module",
+  "description": "An uncomplicated real-time database with encrypted HTTP and WebSocket server-client communication, fast caching, state management, a cross-runtime file system manager, and more, working seamlessly on both frontend and backend.",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "exports": {
+    "import": {
+      "types": "./dist/main.d.ts",
+      "default": "./dist/main.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinoskey524/forestdb.git"
+  },
+  "author": "Hamet Kévin E. ODOUTAN - @vinoskey524",
+  "bugs": {
+    "url": "https://github.com/vinoskey524/forestdb/issues"
+  },
+  "homepage": "https://package524.vercel.app",
+  "keywords": [
+    "forestdb",
+    "forest",
+    "db",
+    "state",
+    "http",
+    "ws",
+    "encryption",
+    "react",
+    "react-native",
+    "fs",
+    "expo",
+    "native",
+    "preact",
+    "angular",
+    "vue",
+    "svelte",
+    "node",
+    "deno",
+    "bun",
+    "javascript",
+    "typescript",
+    "library",
+    "software",
+    "latest",
+    "new"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "b": "clear && tsup src/main.ts --format esm --dts && tsx esbuild.config.js",
+    "t": "clear && bun run test/test.ts",
+    "p": "clear && npm publish --access public",
+    "f": "clear && npm info forestdb"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "esbuild": "^0.25.12",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
