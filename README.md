@@ -3878,7 +3878,7 @@ Here are some methods that forest provides.
 
 ## Author
 
-Self-taught full-stack software engineer with **9 years of experience (since 2017)** designing, building, and shipping web and mobile applications with **TypeScript**, **React**, and **PostgreSQL**, including custom PL/pgSQL functions.
+My name is **Hamet Kévin E. ODOUTAN** (@vinoskey524), and I'm a self-taught full-stack software engineer with **9 years of experience (since 2017)** designing, building, and shipping web and mobile applications with **TypeScript**, **React**, and **PostgreSQL**, including custom PL/pgSQL functions.
 
 I take features end to end, from database schema and APIs to polished, high-performance interfaces, and I work across web and mobile with React and React Native (Bare and Expo). I use AI tools throughout my workflow to move quickly, prioritize what matters most, and iterate fast. I'm always ready to learn and adopt new technologies quickly.
 
