@@ -1,6 +1,6 @@
 {
   "name": "forestdb",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "type": "module",
   "description": "An uncomplicated real-time database with encrypted HTTP and WebSocket server-client communication, fast caching, state management, a cross-runtime file system manager, and more, working seamlessly on both frontend and backend.",
   "main": "./dist/main.js",
